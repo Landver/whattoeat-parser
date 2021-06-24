@@ -8,5 +8,6 @@ def run_parser():
     get_category_products_links()
     get_content()
 
+
 if __name__ == "__main__":
     run_parser()
